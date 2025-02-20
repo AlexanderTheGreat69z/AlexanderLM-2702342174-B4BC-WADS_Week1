@@ -7,3 +7,5 @@ Class is B24C
 Age is 19
 
 single
+
+I love WebDev
